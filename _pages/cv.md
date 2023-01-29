@@ -11,30 +11,40 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Applied Math & Civil Engineering, University of Akron, 2008
+* M.S. in Civil Engineering, Purdue University, 2009
+* M.S. in Applied Math, University of Arizona, 2022
+* Ph.D in Applied Math, University of Arizona, 2024 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2019-present: Senior Data Scientist
+    * Tucson, AZ
+    * Research and develop machine learning algorithms that meet client requirements
+    * Apply mathematical modeling principles to diverse problem areas
+    * Write technical reports and present findings to clients
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* 2009-2019: Data Scientist
+    * Various locations
+    * Design statistics to recover unknown features and parameters
+    * Write internal peer-reviewed technical articles
+    * Certified Adjunct Faculty Instructor
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Machine Learning
+    * Computer vision
+    * Architecture search
+    * Bayesian modeling
+* Data Science
+  * Data cleaning
+  * Visualization
+  * Robust statistics
+* Programming
+    * Python
+    * C
+    * Fortran
+    * And more esoteric languages
 
 Publications
 ======
@@ -53,7 +63,3 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
