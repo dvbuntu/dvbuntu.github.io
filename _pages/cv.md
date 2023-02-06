@@ -58,3 +58,10 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
+Hobbies
+=======
+
+* Birding
+* LGBTQIA+ Representation
+* Tabletop Roleplaying Games
+
