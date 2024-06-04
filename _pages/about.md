@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is the academic website of Danielle Van Boxel.  She's a PhD Student in the [University of Arizona Applied Math GIDP](https://appliedmath.arizona.edu/).  Her research focuses on new methods in machine learning and data science.
+This is the academic website of Danielle Van Boxel.  She's a PhD grad of the [University of Arizona Applied Math GIDP](https://appliedmath.arizona.edu/).  Her research focuses on new methods in machine learning and data science.
 
 # Welcome!
 

@@ -14,7 +14,7 @@ Education
 * B.S. in Applied Math & Civil Engineering, University of Akron, 2008
 * M.S. in Civil Engineering, Purdue University, 2009
 * M.S. in Applied Math, University of Arizona, 2022
-* Ph.D in Applied Math, University of Arizona, 2024 (expected)
+* Ph.D in Applied Math, University of Arizona, 2024
 
 Work experience
 ======
